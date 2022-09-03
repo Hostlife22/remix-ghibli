@@ -1,0 +1,40 @@
+{
+  "comments": [
+    {
+      "id": "1",
+      "name": "Marius",
+      "message": "yooo soo good!",
+      "filmId": "ea660b10-85c4-4ae3-8a5f-41cea3648e3e"
+    },
+    {
+      "id": "2",
+      "name": "Marius",
+      "message": "some comment",
+      "filmId": "ea660b10-85c4-4ae3-8a5f-41cea3648e3e"
+    },
+    {
+      "name": "test",
+      "message": "test",
+      "filmId": "ea660b10-85c4-4ae3-8a5f-41cea3648e3e",
+      "id": "lqHAADr"
+    },
+    {
+      "name": "Simaga",
+      "message": "test",
+      "filmId": "ea660b10-85c4-4ae3-8a5f-41cea3648e3e",
+      "id": "3mKrhqM"
+    },
+    {
+      "name": "Simaga",
+      "message": "test",
+      "filmId": "ea660b10-85c4-4ae3-8a5f-41cea3648e3e",
+      "id": "0HQeRwh"
+    },
+    {
+      "name": "new comment",
+      "message": "my comment",
+      "filmId": "ea660b10-85c4-4ae3-8a5f-41cea3648e3e",
+      "id": "ZNqIqhp"
+    }
+  ]
+}
